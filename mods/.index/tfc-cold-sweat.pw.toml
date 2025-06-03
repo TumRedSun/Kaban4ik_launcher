@@ -1,0 +1,17 @@
+filename = 'tfc_coldsweat-1.7.0.jar'
+name = 'TFC Cold Sweat'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.7.0'
+
+[download]
+hash = '03683c56be230ebaa7a426c5469c1e40b6aea9a864c1cb1f517af70d604cfd8be525c6f0fa3eadd4f5c173a868b192ce500804d3b44f7a3b9940c5884c471bec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1PksCAAh/versions/HIcHFRo9/tfc_coldsweat-1.7.0.jar'
+
+[update.modrinth]
+mod-id = '1PksCAAh'
+version = 'HIcHFRo9'
